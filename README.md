@@ -14,7 +14,7 @@ The second question to answer is what we should attribute the success (ROI) of a
 
 ## Data Understanding and Analysis
 
-The available data comes from 5 families of resources. By far the richest of these resources is IMDb. IMDb has records for the most movies of any of the resources, and it has data on running time, genre, and director assignment, all of which was ultimately relevant to our exploration.
+The available data comes from 5 families of resources. By far the richest of these resources is IMDb. IMDb has records for the most movies of any of the resources, and it has data on running time, genre, and director assignment, all of which were ultimately relevant to our exploration.
 
 The next most useful resource was The Numbers, which provided necessary data on movie grosses and budgets, from which we calculated ROI.
 
